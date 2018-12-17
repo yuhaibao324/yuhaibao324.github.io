@@ -4,15 +4,15 @@ SEOTitle: Steffens YU
 header-img: img/home.jpg
 email: wanghmjlu@163.com
 description: "Steffens YU | Big Data Developer"
-keyword: "Steffens YU, allenwhm, big data, 大数据"
-url: "https://allenwhm.github.io"
+keyword: "Steffens YU, yuhaibao324, big data, 大数据"
+url: "https://yuhaibao324.github.io"
 baseurl: ""
 
 # SNS settings
 RSS: false
 weibo_username:     wanghuoming
-zhihu_username:     allenwhm
-github_username:    allenwhm
+zhihu_username:     yuhaibao324
+github_username:    yuhaibao324
 linkedin_username:  allen-wang-王火明-85650ba9
 #twitter_username:   allewhm
 #facebook_username:  huxpro
@@ -39,7 +39,7 @@ kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
 # Disqus settings
-# disqus_username: allenwhm
+# disqus_username: yuhaibao324
 
 # Netease setttings
 netease_comment: false
