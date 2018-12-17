@@ -10,10 +10,10 @@ baseurl: ""
 
 # SNS settings
 RSS: false
-weibo_username:     wanghuoming
-zhihu_username:     yuhaibao324
+weibo_username:     yuhaibao324
+zhihu_username:     yhb324
 github_username:    yuhaibao324
-linkedin_username:  allen-wang-王火明-85650ba9
+linkedin_username:  yuhaibao324
 #twitter_username:   allewhm
 #facebook_username:  huxpro
 
