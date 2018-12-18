@@ -3,7 +3,7 @@ layout:       post
 title:        "做正确的决定"
 subtitle:     "新的征程"
 date:         2018-08-25
-author:       "Allen"
+author:       "steffens"
 header-img:   "img/in-post/make-the-right-decision/new-horizon.jpg"
 header-mask:  0.7
 catalog:      false

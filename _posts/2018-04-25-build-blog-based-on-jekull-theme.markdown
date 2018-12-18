@@ -3,7 +3,7 @@ layout:       post
 title:        "根据Jekyll模板创建个人博客"
 subtitle:     "基于huangxuan.me修改"
 date:         2018-04-25
-author:       "Allen"
+author:       "steffens"
 header-img:   "img/in-post/build-blog-with-jekyll-theme/jekyll-theme.png"
 header-mask:  0.7
 catalog:      false
